@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 🙇‍♀️🙇‍♀️
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e89590ec-5aaa-4cdc-9fbc-3d997af1edd5" width="300"/>
 </div>
 
-<blockquote>
-  Yunseo Kim <br>
-</blockquote>
+<div align="center">
+  <code style="color: gray; font-size: 18px;">Yunseo Kim</code>
+</div><br>
 
 <h2> Tech Stacks</h2>
 
