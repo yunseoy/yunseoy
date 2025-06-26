@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/e89590ec-5aaa-4cdc-9fbc-3d997af1edd5)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e89590ec-5aaa-4cdc-9fbc-3d997af1edd5" width="300"/>
 </div>
 
 <blockquote>
