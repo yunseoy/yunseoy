@@ -31,7 +31,6 @@
   <br>
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white" alt="MongoDB">
   <br>
@@ -44,6 +43,4 @@
 
   <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=Redis&logoColor=white" alt="Redis">
   <br>
-
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white" alt="Figma">
 </div>
