@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&size=30&pause=1000&color=6FA6C4&background=FFF5E600&center=true&multiline=true&random=true&width=442&height=64&lines=Welcome+yunseo`s+World" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <code style="color: gray; font-size: 18px;">Yunseo Kim</code>
 </div>
 
