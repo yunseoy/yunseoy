@@ -1,5 +1,3 @@
-## Hi there 🙇‍♀️🙇‍♀️
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a1289dff-fb68-4b6a-a086-17982145d523" width="400"/>
 </div>
@@ -8,7 +6,9 @@
   <code style="color: gray; font-size: 18px;">Yunseo Kim</code>
 </div><br>
 
-<h2> Tech Stacks</h2>
+<div align="center">
+  <code style="color: gray; font-size: 18px;">Tech Stacks</code>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white" alt="Spring">
