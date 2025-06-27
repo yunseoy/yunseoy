@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/90a7779d-ea74-4bb5-8058-19f022cf1094" width="200"/>
-</div>
-
-<div align="center">
   <code style="color: gray; font-size: 18px;">Yunseo Kim</code>
 </div><br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/90a7779d-ea74-4bb5-8058-19f022cf1094" width="200"/>
+</div>
 
 <div align="center">
   <code style="color: gray; font-size: 18px;">Tech Stacks</code>
